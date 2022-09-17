@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @christop23
+- 👋 Hi, I’m Christo Paul
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on open source software
